@@ -1,3 +1,10 @@
+ <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Animation CSS -->
+    <link href="css1/animate.min.css" rel="stylesheet">
+
+    <link href="font-awesome/css1/font-awesome.min.css" rel="stylesheet">
+
 			</div>
 		</div>
 		<!-- / main body -->
@@ -14,8 +21,8 @@
 		<div class="wrapper floatholder rapidxwpr">
 
 			<!-- footer credits -->
-			<div class="footer-credits">
-				Powered by the &nbsp;
+			<div class="footer-credits" align="">
+				Powered by the SAFR &nbsp;
 				<a href="http://www.ushahidi.com/">
 					<img src="<?php echo url::file_loc('img'); ?>media/img/footer-logo.png" alt="Ushahidi" class="footer-logo" />
 				</a>
